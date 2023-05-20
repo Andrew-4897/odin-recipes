@@ -1,7 +1,7 @@
 # odin-recipes
 
 Website contents:
-Create an index page
-Create links to recipes on the index page
+Created an index page,
+Created links to recipes on the index page
 
-V 1.0
+V1.1
